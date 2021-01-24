@@ -1,0 +1,5 @@
+requirements
+--The addon device must be free of any electrical connections to the headphones.
+--The addon device must be able to recognice certain hand gestures and head motions.
+--The addon device must be able to communicate with a web browser via its bluethooth.
+---certain design requirements may be altered if complications arise.
