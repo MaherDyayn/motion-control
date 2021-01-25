@@ -1,6 +1,6 @@
 motion controlled headphones
 -IDEA
---The aim is to create an after market addon module that can make a devie(like headphones) motion controlled. 
+--The aim is to create an after market addon module that can make a device(like headphones) motion controlled. 
 --Currently the module is designed for headphones only.
 
 -DESIGN
